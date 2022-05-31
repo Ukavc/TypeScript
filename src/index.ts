@@ -1,6 +1,7 @@
 let a: number = 5;
 let b: number = 1;
 let c: number = 2;
+
 console.log("Addition:" + " " + (a + b));
 console.log("Subtraction:" + " " + (a - b));
 console.log("Multiplication:" + " " + (a * c));
